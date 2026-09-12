@@ -265,4 +265,4 @@ This repository serves as the official landing page for Firefox. The software is
 **Get the most recent version of Firefox today!**
 
 ---
-**Last updated:** 2026-09-12 15:04:17 UTC
+**Last updated:** 2026-09-12 18:07:40 UTC
